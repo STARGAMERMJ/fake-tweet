@@ -1,13 +1,11 @@
 # Frees : Fake-Tweet - JS 
 
-- 
-
-- 
+- https://react-nopcnu.stackblitz.io/
 
 ## Description
 Project aims to create a Weather.
 
-![gif](https://https://raw.githubusercontent.com/yhekim/gif-directory/main/tweet_1.gif)
+![gif](https://raw.githubusercontent.com/yhekim/gif-directory/main/tweet_1.gif)
 ![gif](https://raw.githubusercontent.com/yhekim/gif-directory/main/tweet_2.gif)
 
 
