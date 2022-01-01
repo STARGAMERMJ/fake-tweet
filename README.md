@@ -17,6 +17,8 @@ Project aims to create a Weather.
 
 - JS
 
+- React JS
+
 
 ### At the end of the project, students will be able to;
 
