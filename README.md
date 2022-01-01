@@ -1,4 +1,4 @@
-# Frees : FakE-tWEET - JS 
+# Frees : Fake-Tweet - JS 
 
 - 
 
@@ -7,7 +7,8 @@
 ## Description
 Project aims to create a Weather.
 
-![gif](https://github.com/yhekim/Weaather_App_Sidebar/blob/main/ezgif.com-gif-maker.gif)
+![gif](https://https://raw.githubusercontent.com/yhekim/gif-directory/main/tweet_1.gif)
+![gif](https://raw.githubusercontent.com/yhekim/gif-directory/main/tweet_2.gif)
 
 
 ### At the end of the project, following topics are to be covered;
