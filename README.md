@@ -1,8 +1,8 @@
-# Frees : Weather - JS 
+# Frees : FakE-tWEET - JS 
 
-- https://yhekim.github.io/Weaather_App_Sidebar/
+- 
 
-- https://quirky-montalcini-b728e7.netlify.app
+- 
 
 ## Description
 Project aims to create a Weather.
